@@ -13,10 +13,10 @@ This initiative is a stepping stone for anyone looking to dive into the world of
 # What's in This Repository?
 This repository serves as a hub for my contributions to AI competitions and activities organized by the **AI Talents League**. Here, you'll find:
 
-**Competition Solutions**: Code, notebooks, and detailed explanations for my submissions to various AI competitions.
+* **Competition Solutions**: Code, notebooks, and detailed explanations for my submissions to various AI competitions.
 
-**Learning Resources**: Tutorials, guides, and resources to help you get started with AI and machine learning.
+* **Learning Resources**: Tutorials, guides, and resources to help you get started with AI and machine learning.
 
-**Activity Logs**: Updates and summaries of activities, workshops, and events organized by the AI Talents League.
+* **Activity Logs**: Updates and summaries of activities, workshops, and events organized by the AI Talents League.
 
-**Collaborative Projects**: Open-source projects and collaborative efforts to solve real-world problems using AI.
+* **Collaborative Projects**: Open-source projects and collaborative efforts to solve real-world problems using AI.
