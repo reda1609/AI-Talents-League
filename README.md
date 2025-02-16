@@ -1,3 +1,13 @@
+# AI Talents League Competitions  
+Here are the competitions I've participated in, along with links to their respective rounds and my rankings:  
+
+| Round | Problem Name | Link | Rank |
+|-------|-------------|------|------|
+| **Round 1** | Regression Problem | [Link](https://www.kaggle.com/competitions/ai-talents-league-round-1) | 🏆 #5 |
+
+Feel free to explore the solutions and insights from each round!
+
+
 # About AI Talents League
 **AI Talents League** is an inspiring initiative founded by a group of AI experts to foster a culture of AI competitions, similar to platforms like Kaggle, and to empower Arab students, fresh graduates, and anyone passionate about artificial intelligence. The goal is to:
 
